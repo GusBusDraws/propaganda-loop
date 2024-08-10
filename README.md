@@ -19,6 +19,11 @@ npm install @types/p5
 ```
 
 ## Change Log
+### 2024-08-10
+- Add option to switch between DVD bounce and static rotation
+- Add DVD bounce
 ### 2024-08-09
-- Load frames to canvas
+- [dvd-bounce.js](dvd-bounce.js): Program static rotation
+- [loop-frames.js](loop-frames.js): Load 3D model to canvas
+- [loop-frames.js](loop-frames.js): Load frames to canvas and loop
 - Start project
